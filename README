@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1874
+
+This file is a rewrite for PostgreSQL of the more general SQL intenting vim file made for Oracle and Sybase Adaptive Server Anywhere (ASA). All credits go to David Fishburn.
